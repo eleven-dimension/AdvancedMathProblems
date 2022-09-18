@@ -53,14 +53,18 @@ $$\begin{bmatrix}
 $$ \alpha^{2} + \beta = \Theta  $$
 
 ## Mutiple Lines
-$$D(x) = \begin{cases}
-\lim\limits_{x \to 0} \frac{a^x}{b+c}, & x<3 \\
-\pi, & x=3 \\
-\int_a^{3b}x_{ij}+e^2 \mathrm{d}x,& x>3 \\
-\end{cases}$$
+$$
+D(x) = \begin{cases}
+    \lim\limits_{x \to 0} \frac{a^x}{b+c}, & x<3 \\
+    \pi, & x=3 \\
+    \int_a^{3b}x_{ij} + e^2 \mathrm{d}x, & x>3 \\
+\end{cases}
+$$
 
 ## Split
-$$\begin{split}
+$$
+\begin{split}
 \cos 2x &= \cos^2x - \sin^2x \\
-&=2\cos^2x-1
-\end{split}$$
+    &=2\cos^2x-1
+\end{split}
+$$
