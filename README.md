@@ -60,6 +60,13 @@ D(x) = \begin{cases}
     \int_a^{3b}x_{ij} + e^2 \mathrm{d}x, & x>3 \\
 \end{cases}
 $$
+$$
+\begin{cases}
+ x = 10 \\
+ y = 20 \\
+ z = 30 
+\end{cases}
+$$
 
 ## Split
 $$
@@ -68,3 +75,5 @@ $$
     &=2\cos^2x-1
 \end{split}
 $$
+
+
