@@ -2,7 +2,7 @@
 
 中medium
 
-$$\Large\lim\limits_{n\rightarrow\infty} n^2\left(\sqrt[n]{a}-\sqrt[n+1]{a}\right)$$
+$$\Large\lim\limits_{n\rightarrow\infty} n^2\left(\sqrt[n]{a}-\sqrt[n+1]{a}\right) \qquad a>0$$
 
 ### T2
 
